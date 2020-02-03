@@ -1,5 +1,5 @@
 package restaurant;
 
-public abstract class Hamburger {
+public abstract class Drink {
     public  abstract double getPrice();
 }
